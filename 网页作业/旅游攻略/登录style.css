@@ -1,0 +1,44 @@
+body {
+    background: url('img/首页img/eight.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
+.iconfont {
+    font-family: "iconfonticon-aichegujiabeifen7" !important;
+    font-size: 20px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.loginbox {
+    position: absolute;
+    left: 50%;
+    margin-left: -225px;
+    top: 50%;
+    margin-top: -225px;
+    width: 450px;
+    height: 300px;
+    background-color: rgba(7, 107, 239, 0.3);
+    border: transparent;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.textinput {
+    height: 20px;
+    border-radius: 5px;
+    border: none;
+    line-height: 20px;
+    font-family: '微软雅黑';
+    font-size: 15px;
+}
+
+.button {
+    height: 25px;
+    width: 150px;
+    cursor: pointer;
+    border-radius: 7px;
+    border-color: cadetblue;
+}
